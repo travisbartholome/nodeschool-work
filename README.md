@@ -4,3 +4,4 @@ The nodeschool project homepage is https://nodeschool.io .
 
 ## learnyounode
 22 Dec 2016 - Completed through "Make it Modular"
+23 Dec 2016 - Completed through "Time Server"
