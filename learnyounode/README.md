@@ -15,6 +15,6 @@ Module progress:
 - [x] HTTP Collect
 - [x] Juggling Async
 - [x] Time Server
-- [ ] HTTP FILE SERVER
+- [ ] HTTP File Server
 - [ ] HTTP Uppercaserer
 - [ ] HTTP JSON API Server
