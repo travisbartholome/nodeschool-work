@@ -1,0 +1,26 @@
+{
+  "name": "nodeschool-work",
+  "version": "1.0.0",
+  "description": "A repository of my work on the nodeschool workshoppers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travisbartholome/nodeschool-work.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "workshopper"
+  ],
+  "author": "Travis Bartholome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travisbartholome/nodeschool-work/issues"
+  },
+  "homepage": "https://github.com/travisbartholome/nodeschool-work#readme",
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  }
+}
