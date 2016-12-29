@@ -2,22 +2,24 @@
 
 27 Dec. 2016 - Completed "mongod"
 
+29 Dec. 2016 - Completed remaining modules
+
 Module Progress:
 
 - [x] mongod
 
-- [ ] Connect
+- [x] Connect
 
-- [ ] FIND
+- [x] Find
 
-- [ ] FIND PROJECT
+- [x] Find Project
 
-- [ ] INSERT
+- [x] Insert
 
-- [ ] UPDATE
+- [x] Update
 
-- [ ] REMOVE
+- [x] Remove
 
-- [ ] COUNT
+- [x] Count
 
-- [ ] AGGREGATE
+- [x] Aggregate

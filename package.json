@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/travisbartholome/nodeschool-work#readme",
   "dependencies": {
+    "mongodb": "^2.2.16",
     "through2-map": "^3.0.0"
   }
 }

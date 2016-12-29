@@ -20,6 +20,12 @@ The nodeschool project homepage is https://nodeschool.io.
 
 27 Dec. 2016 - Completed "mongod"
 
+29 Dec. 2016 - Completed remaining modules
+
+Removed all files from the /learnyoumongo/data folder.
+They collectively took up several gigabytes for some reason.
+That may be indicative of a larger problem...
+
 ## learnyounode
 
 22 Dec. 2016 - Completed through "Make it Modular"
