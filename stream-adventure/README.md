@@ -2,6 +2,8 @@
 
 29 Dec. 2016 - Completed through "Transform"
 
+30 Dec. 2016 - Completed through "Websockets"
+
 Module progress:
 
 - [x] Beep Boop
@@ -12,17 +14,17 @@ Module progress:
 
 - [x] Transform
 
-- [ ] Lines
+- [x] Lines
 
-- [ ] Concat
+- [x] Concat
 
-- [ ] HTTP Server
+- [x] HTTP Server
 
-- [ ] HTTP Client
+- [x] HTTP Client
 
-- [ ] Websockets
+- [x] Websockets
 
-- [ ] HTML Stream
+- [x] HTML Stream
 
 - [ ] Duplexer
 
