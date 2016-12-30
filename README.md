@@ -38,6 +38,8 @@ That may be indicative of a larger problem...
 
 29 Dec. 2016 - Completed through "Closures"
 
+30 Dec. 2016 - Completed remaining modules
+
 # stream-adventure
 
 29 Dec. 2016 - Completed through "Transform"
