@@ -37,3 +37,7 @@ That may be indicative of a larger problem...
 # scope-chains-closures
 
 29 Dec. 2016 - Completed through "Closures"
+
+# stream-adventure
+
+29 Dec. 2016 - Completed through "Transform"
