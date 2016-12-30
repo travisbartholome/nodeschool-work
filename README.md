@@ -33,3 +33,7 @@ That may be indicative of a larger problem...
 23 Dec. 2016 - Completed through "Time Server"
 
 27 Dec. 2016 - Completed remaining modules
+
+# scope-chains-closures
+
+29 Dec. 2016 - Completed through "Closures"
