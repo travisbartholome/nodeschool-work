@@ -4,6 +4,10 @@ This is just a compendium of my work through some nodeschool workshoppers.
 
 The nodeschool project homepage is https://nodeschool.io.
 
+## functional-javascript
+
+31 Dec. 2016 - Completed through "Partial Application without Bind"
+
 ## git-it
 
 31 Dec. 2016 - Completed through "Repository"
