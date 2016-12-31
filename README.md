@@ -4,6 +4,10 @@ This is just a compendium of my work through some nodeschool workshoppers.
 
 The nodeschool project homepage is https://nodeschool.io.
 
+## git-it
+
+31 Dec. 2016 - Completed through "Repository"
+
 ## how-to-markdown
 
 24 Dec. 2016 - Completed all modules
@@ -43,3 +47,10 @@ That may be indicative of a larger problem...
 # stream-adventure
 
 29 Dec. 2016 - Completed through "Transform"
+
+30 Dec. 2016 - Completed through "HTML Stream"
+
+31 Dec. 2016 - Completed through "Duplexer"
+
+"Duplexer Redux" has a partial solution.
+(Really nothing at all yet.)

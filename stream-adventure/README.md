@@ -2,7 +2,9 @@
 
 29 Dec. 2016 - Completed through "Transform"
 
-30 Dec. 2016 - Completed through "Websockets"
+30 Dec. 2016 - Completed through "HTML Stream"
+
+31 Dec. 2016 - Completed through "Duplexer"
 
 Module progress:
 
@@ -26,7 +28,7 @@ Module progress:
 
 - [x] HTML Stream
 
-- [ ] Duplexer
+- [x] Duplexer
 
 - [ ] Duplexer Redux
 
