@@ -8,6 +8,14 @@ The nodeschool project homepage is https://nodeschool.io.
 
 31 Dec. 2016 - Completed through "Repository"
 
+31 Dec. 2016 - Completed remaining modules
+
+Ended up altering the source code for the solution to "Githubbin."
+Changed `git config user.username` to `git config user.name`.
+See docs at https://git-scm.com/docs/git-config#git-config-username.
+
+Update: Submitted pull request to jlord/git-it with an update to that lesson.
+
 ## how-to-markdown
 
 24 Dec. 2016 - Completed all modules

@@ -2,26 +2,34 @@
 
 31 Dec. 2016 - Completed through "Repository"
 
+31 Dec. 2016 - Completed remaining modules
+
+Note: Altered Githubbin verification slightly.
+Normal username field in `git config` appears to be `user.name` now, not `user.username`.
+It's not hard to set `user.username` too, but it seems unneeded.
+
+Anyway, sent in a pull request to jlord/git-it with the suggested change.
+
 Module progress:
 
 - [x] Get Git
 
 - [x] Repository
 
-- [ ] Commit to It
+- [x] Commit to It
 
-- [ ] Githubbin
+- [x] Githubbin
 
-- [ ] Remote Control
+- [x] Remote Control
 
-- [ ] Forks and Clones
+- [x] Forks and Clones
 
-- [ ] Branches Aren't Just for Birds
+- [x] Branches Aren't Just for Birds
 
-- [ ] It's a Small World
+- [x] It's a Small World
 
-- [ ] Pull, Never Out of Date
+- [x] Pull, Never Out of Date
 
-- [ ] Requesting You Pull, Please
+- [x] Requesting You Pull, Please
 
-- [ ] Merge Tada!
+- [x] Merge Tada!
