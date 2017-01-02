@@ -8,6 +8,8 @@ The nodeschool project homepage is https://nodeschool.io.
 
 31 Dec. 2016 - Completed through "Partial Application without Bind"
 
+1 Jan. 2017 - Completed through "Implement map with Reduce"
+
 ## git-it
 
 31 Dec. 2016 - Completed through "Repository"
@@ -19,6 +21,8 @@ Changed `git config user.username` to `git config user.name`.
 See docs at https://git-scm.com/docs/git-config#git-config-username.
 
 Update: Submitted pull request to jlord/git-it with an update to that lesson.
+
+Another update: `user.username` was intended to be a custom config property. Oops.
 
 ## how-to-markdown
 
@@ -42,6 +46,8 @@ Removed all files from the /learnyoumongo/data folder.
 They collectively took up several gigabytes for some reason.
 That may be indicative of a larger problem...
 
+Or just MongoDB allocating a ton of unnecessary extra space.
+
 ## learnyounode
 
 22 Dec. 2016 - Completed through "Make it Modular"
@@ -50,13 +56,13 @@ That may be indicative of a larger problem...
 
 27 Dec. 2016 - Completed remaining modules
 
-# scope-chains-closures
+## scope-chains-closures
 
 29 Dec. 2016 - Completed through "Closures"
 
 30 Dec. 2016 - Completed remaining modules
 
-# stream-adventure
+## stream-adventure
 
 29 Dec. 2016 - Completed through "Transform"
 

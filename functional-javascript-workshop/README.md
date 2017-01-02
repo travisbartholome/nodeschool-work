@@ -2,6 +2,8 @@
 
 31 Dec. 2016 - Completed through "Partial Application without Bind"
 
+1 Jan. 2017 - Completed through "Implement Map with Reduce"
+
 Module progress:
 
 - [x] Hello World
@@ -22,9 +24,9 @@ Module progress:
 
 - [x] Partial Application without Bind
 
-- [ ] Partial Application with Bind
+- [x] Partial Application with Bind
 
-- [ ] Implement Map with Reduce
+- [x] Implement Map with Reduce
 
 - [ ] Function Spies
 
