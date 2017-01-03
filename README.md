@@ -70,5 +70,4 @@ Or just MongoDB allocating a ton of unnecessary extra space.
 
 31 Dec. 2016 - Completed through "Duplexer"
 
-"Duplexer Redux" has a partial solution.
-(Really nothing at all yet.)
+2 Jan. 2017 - Completed through "Combiner"

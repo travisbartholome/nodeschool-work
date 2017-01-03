@@ -6,6 +6,8 @@
 
 31 Dec. 2016 - Completed through "Duplexer"
 
+2 Jan. 2017 - Completed through "Combiner"
+
 Module progress:
 
 - [x] Beep Boop
@@ -30,9 +32,9 @@ Module progress:
 
 - [x] Duplexer
 
-- [ ] Duplexer Redux
+- [x] Duplexer Redux
 
-- [ ] Combiner
+- [x] Combiner
 
 - [ ] Crypt
 
