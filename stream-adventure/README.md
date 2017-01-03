@@ -8,6 +8,8 @@
 
 2 Jan. 2017 - Completed through "Combiner"
 
+3 Jan. 2017 - Completed remaining modules
+
 Module progress:
 
 - [x] Beep Boop
@@ -36,6 +38,6 @@ Module progress:
 
 - [x] Combiner
 
-- [ ] Crypt
+- [x] Crypt
 
-- [ ] Secretz
+- [x] Secretz

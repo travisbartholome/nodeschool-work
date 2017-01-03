@@ -71,3 +71,5 @@ Or just MongoDB allocating a ton of unnecessary extra space.
 31 Dec. 2016 - Completed through "Duplexer"
 
 2 Jan. 2017 - Completed through "Combiner"
+
+3 Jan. 2017 - Completed remaining modules
