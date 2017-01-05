@@ -4,11 +4,17 @@ This is just a compendium of my work through some nodeschool workshoppers.
 
 The nodeschool project homepage is https://nodeschool.io.
 
+## expressworks
+
+5 Jan. 2017 - Completed all modules
+
 ## functional-javascript
 
 31 Dec. 2016 - Completed through "Partial Application without Bind"
 
 1 Jan. 2017 - Completed through "Implement map with Reduce"
+
+5 Jan. 2017 - Completed through "Blocking Event Loop"
 
 ## git-it
 

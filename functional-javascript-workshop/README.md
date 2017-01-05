@@ -4,6 +4,8 @@
 
 1 Jan. 2017 - Completed through "Implement Map with Reduce"
 
+5 Jan. 2017 - Completed through "Blocking Event Loop"
+
 Module progress:
 
 - [x] Hello World
@@ -28,9 +30,9 @@ Module progress:
 
 - [x] Implement Map with Reduce
 
-- [ ] Function Spies
+- [x] Function Spies
 
-- [ ] Blocking Event Loop
+- [x] Blocking Event Loop
 
 - [ ] Trampoline
 
