@@ -16,6 +16,12 @@ The nodeschool project homepage is https://nodeschool.io.
 
 5 Jan. 2017 - Completed through "Blocking Event Loop"
 
+7 Jan. 2017 - Completed through "Recursion"
+
+Definitely need to look deeper into functional concepts like trampolining and currying.
+
+This makes me wonder if I should learn Haskell.
+
 ## git-it
 
 31 Dec. 2016 - Completed through "Repository"

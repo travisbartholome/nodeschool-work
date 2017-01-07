@@ -6,6 +6,12 @@
 
 5 Jan. 2017 - Completed through "Blocking Event Loop"
 
+7 Jan. 2017 - Completed through "Recursion"
+
+Definitely need to look deeper into functional concepts like trampolining and currying.
+
+This makes me wonder if I should learn Haskell.
+
 Module progress:
 
 - [x] Hello World
@@ -34,11 +40,11 @@ Module progress:
 
 - [x] Blocking Event Loop
 
-- [ ] Trampoline
+- [x] Trampoline
 
-- [ ] Async Loops
+- [x] Async Loops
 
-- [ ] Recursion
+- [x] Recursion
 
 - [ ] Currying
 
