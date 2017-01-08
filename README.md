@@ -18,7 +18,12 @@ The nodeschool project homepage is https://nodeschool.io.
 
 7 Jan. 2017 - Completed through "Recursion"
 
+8 Jan. 2017 - Completed remaining modules
+
 Definitely need to look deeper into functional concepts like trampolining and currying.
+
+Overall, this has been far and away the most difficult workshop.
+I guess doing functional programming more often might help me a lot.
 
 This makes me wonder if I should learn Haskell.
 
