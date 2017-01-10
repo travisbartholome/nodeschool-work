@@ -11,11 +11,11 @@ Module progress:
 
 - [x] Class
 
-- [ ] Class Extend
+- [x] Class Extend
 
-- [ ] Modules With Name
+- [x] Modules With Name
 
-- [ ] Modules Default Export
+- [x] Modules Default Export
 
 - [ ] Block Scope
 
