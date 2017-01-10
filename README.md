@@ -90,3 +90,7 @@ Or just MongoDB allocating a ton of unnecessary extra space.
 2 Jan. 2017 - Completed through "Combiner"
 
 3 Jan. 2017 - Completed remaining modules
+
+## tower-of-babel
+
+9 Jan. 2017 - Completed through "Class"
