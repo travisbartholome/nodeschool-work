@@ -94,3 +94,5 @@ Or just MongoDB allocating a ton of unnecessary extra space.
 ## tower-of-babel
 
 9 Jan. 2017 - Completed through "Class"
+
+10 Jan. 2017 - Completed remaining modules
