@@ -18,7 +18,7 @@ Module progress:
 
 - [x] Modulate filter cutoff
 
-- [ ] Add an envelope
+- [x] Add an envelope
 
 - [ ] Vibrato
 
