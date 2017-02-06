@@ -20,17 +20,17 @@ Module progress:
 
 - [x] Add an envelope
 
-- [ ] Vibrato
+- [x] Vibrato
 
 ###### Working With Samples
 
-- [ ] Decode and play an audio file
+- [x] Decode and play an audio file
 
-- [ ] Set in and out points
+- [x] Set in and out points
 
-- [ ] Looping samples
+- [x] Looping samples
 
-- [ ] Set sample pitch
+- [x] Set sample pitch
 
 - [ ] Play a sequence of pitched samples
 
