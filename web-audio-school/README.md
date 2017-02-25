@@ -32,11 +32,11 @@ Module progress:
 
 - [x] Set sample pitch
 
-- [ ] Play a sequence of pitched samples
+- [x] Play a sequence of pitched samples
 
 ###### Effects
 
-- [ ] Tremolo
+- [x] Tremolo
 
 - [ ] Stereo Tremolo
 
