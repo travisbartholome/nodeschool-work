@@ -38,9 +38,9 @@ Module progress:
 
 - [x] Tremolo
 
-- [ ] Stereo Tremolo
+- [x] Stereo Tremolo
 
-- [ ] Simple Overdrive
+- [x] Simple Overdrive
 
 - [ ] Better Overdrive
 
