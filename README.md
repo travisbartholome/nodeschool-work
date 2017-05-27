@@ -91,6 +91,12 @@ Or just MongoDB allocating a ton of unnecessary extra space.
 
 3 Jan. 2017 - Completed remaining modules
 
+## test-anything
+
+26 May 2017 - Through "Tell Me What's Wrong" (no Internet connection to install `tape`)
+
+27 May 2017 - Completed all exercises
+
 ## tower-of-babel
 
 9 Jan. 2017 - Completed through "Class"

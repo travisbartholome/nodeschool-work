@@ -2,7 +2,7 @@
 
 26 May 2017 - Through "Tell Me What's Wrong" (no Internet connection to install `tape`)
 
-27 May 2017b- Completed all exercises
+27 May 2017 - Completed all exercises
 
 Module Progress:
 
