@@ -1,10 +1,12 @@
 # test-anything
 
+26 May 2017 - Through "Tell Me What's Wrong" (no Internet connection to install `tape`)
+
 Module Progress:
 
-- [ ] Log It Out
+- [x] Log It Out
 
-- [ ] Tell Me What Is Wrong
+- [x] Tell Me What Is Wrong
 
 - [ ] Tape It Together
 
