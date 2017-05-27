@@ -2,14 +2,16 @@
 
 26 May 2017 - Through "Tell Me What's Wrong" (no Internet connection to install `tape`)
 
+27 May 2017b- Completed all exercises
+
 Module Progress:
 
 - [x] Log It Out
 
 - [x] Tell Me What Is Wrong
 
-- [ ] Tape It Together
+- [x] Tape It Together
 
-- [ ] Call Me Maybe
+- [x] Call Me Maybe
 
-- [ ] To Err Is Human, To Purr Feline
+- [x] To Err Is Human, To Purr Feline
